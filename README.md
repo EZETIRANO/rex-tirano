@@ -1,0 +1,2 @@
+# rex-tirano
+primer repositorio
